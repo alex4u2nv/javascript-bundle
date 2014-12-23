@@ -33,7 +33,7 @@
     </bean>
 
 
-    <!-- Bootstrap records management data -->
+    <!-- Bootstrap Javascript Content data -->
     <bean id="changeme.exampleContentBoostrap"
           class="org.alfresco.repo.module.ImporterModuleComponent"
           parent="module.baseComponent">
